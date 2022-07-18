@@ -12,4 +12,4 @@ I'm Daniel, a web developer and a recent coding bootcamp graduate. I know React.
 
 [LinkedIn](https://www.linkedin.com/in/daniel-cho1/)
 
-[danielcho07@gmail.com](danielcho07@gmail.com)
+[danielcho07@gmail.com](mailto:danielcho07@gmail.com)
