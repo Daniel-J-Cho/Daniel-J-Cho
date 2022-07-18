@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Daniel-J-Cho/Daniel-J-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me :computer:
 
-Here are some ideas to get you started:
+I'm Daniel, a web developer and a recent coding bootcamp graduate. I know React.js, JavaScript (ES5/ES6), HTML5, CSS3, Node.js, Express, and PostgreSQL; but I am always looking to learn other languages and frameworks to develop new skills.  Outside of coding, I enjoy trying out new restaurants :fork_and_knife: snowboarding :snowboarder: and hiking 🥾.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• :books: Stack: React.js, JavaScript (ES5/ES6), HTML5, CSS3, Node.js, Express, PostgreSQL
+• 🛠 Tools: npm, Bootstrap, Figma, Babel, Webpack, Git, GitHub, Slack
+• 💻 Currently learning: TypeScript, SASS, Wordpress
+
+## Contact Me!
+
+[LinkedIn](https://www.linkedin.com/in/daniel-cho1/)
+
+[danielcho07@gmail.com](danielcho07@gmail.com)
