@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-#### About Me :computer:
-
+#### About Me 🖥
 I'm Daniel, a web developer and a recent coding bootcamp graduate. I know React.js, JavaScript (ES5/ES6), HTML5, CSS3, Node.js, Express, and PostgreSQL; but I am always looking to learn other languages and frameworks to develop new skills.  Outside of coding, I enjoy trying out new restaurants :fork_and_knife: snowboarding :snowboarder: and hiking 🥾.
 
 #### Skills/Technologies
