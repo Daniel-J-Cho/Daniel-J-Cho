@@ -6,8 +6,8 @@ I'm Daniel, a web developer and a recent coding bootcamp graduate. I know React.
 
 #### Skills/Technologies
 
-• :books: Stack: React.js, JavaScript (ES5/ES6), HTML5, CSS3, Node.js, Express, PostgreSQL
-• 🛠 Tools: npm, Bootstrap, Figma, Babel, Webpack, Git, GitHub, Slack
+• :books: Stack: React.js, JavaScript (ES5/ES6), HTML5, CSS3, Node.js, Express, PostgreSQL. 
+• 🛠 Tools: npm, Bootstrap, Figma, Babel, Webpack, Git, GitHub, Slack. 
 • 💻 Currently learning: TypeScript, SASS, Wordpress
 
 #### Contact Me!
